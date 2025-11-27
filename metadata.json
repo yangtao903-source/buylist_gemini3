@@ -1,0 +1,5 @@
+{
+  "name": "SmartShop Checklist",
+  "description": "A mobile-first intelligent shopping list that helps you organize items by category and track your progress in real-time using Gemini AI.",
+  "requestFramePermissions": []
+}
